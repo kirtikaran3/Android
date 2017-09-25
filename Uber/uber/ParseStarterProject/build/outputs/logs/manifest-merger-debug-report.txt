@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:10:1-40:12
+	package
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:11:5-32
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:14:22-76
+application
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:16:5-38:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f9d47efd2a8eaa0afb66af81eecbf4320bc2d96d/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f93072555d4027b192d73be4cbda757ff4fc2106/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:26:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f9d47efd2a8eaa0afb66af81eecbf4320bc2d96d/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f93072555d4027b192d73be4cbda757ff4fc2106/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/src/main/AndroidManifest.xml

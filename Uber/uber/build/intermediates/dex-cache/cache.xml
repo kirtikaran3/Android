@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a514c02c86fbdda06415dc64e03ce862dee1139d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94567798c90364f782412214374699cf8179adb9">
+        <dex dex="/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bac2114bd4db8f56c9d935d6f875f233b3a984fd/classes.dex" />
+    </item>
+
+</items>

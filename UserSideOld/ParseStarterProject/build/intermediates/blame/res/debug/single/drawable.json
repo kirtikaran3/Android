@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/eveicon.jpg",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/drawable/eveicon.jpg"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/kirti/.android/build-cache/0b66c01e3553ffc38609fb89d778c6fe2844575a/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/kirti/.android/build-cache/20d6f9395ecca51a7ecaaff6ff6f3b59910836c0/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/kirti/.android/build-cache/0b66c01e3553ffc38609fb89d778c6fe2844575a/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/eve.jpg",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/drawable/eve.jpg"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    }
+]

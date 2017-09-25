@@ -1,0 +1,7 @@
+#Tue Nov 29 12:56:46 IST 2016
+base.0=C\:\\Android\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_19e9487ae46cffeda93e783122a4975f7f56e9ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_155f880f6f9b54c6feb5fcc5294495b9ce6f52b1\\classes.dex
+base.1=C\:\\Android\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_155f880f6f9b54c6feb5fcc5294495b9ce6f52b1
+file.0=C\:\\Android\\Uber\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_19e9487ae46cffeda93e783122a4975f7f56e9ce\\classes.dex

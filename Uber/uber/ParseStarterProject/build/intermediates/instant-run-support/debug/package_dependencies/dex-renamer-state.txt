@@ -1,0 +1,25 @@
+#Mon Aug 28 02:56:30 IST 2017
+renamed.7=classes4.dex
+renamed.6=classes5.dex
+renamed.5=classes6.dex
+renamed.4=classes8.dex
+renamed.3=classes2.dex
+renamed.2=classes7.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.7=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d183cc806bd9b3d4644fd65c7319b0ab6528d46
+base.6=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5e8d9adee583a9d3c285796b1c9bb4ccae52277
+base.5=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e880fc716c2488963bd1ce594b138749cfda50ab
+base.4=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_58e8d8eae25c5d52dec99e5b3ced4d39655e977d
+base.3=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b436e67e9bc71e44a2d4d202562a1c112741180
+base.2=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_9add3f4f11051c1559d5b94c53f03c2db7ebafa4
+base.1=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0ec7da49e29043b26fec36e149f01d8b9ddba772
+base.0=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f20a6cfb5bfc4fa3621b2c5b70d4243fc692e80
+file.7=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d183cc806bd9b3d4644fd65c7319b0ab6528d46/classes.dex
+file.6=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5e8d9adee583a9d3c285796b1c9bb4ccae52277/classes.dex
+file.5=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e880fc716c2488963bd1ce594b138749cfda50ab/classes.dex
+file.4=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_58e8d8eae25c5d52dec99e5b3ced4d39655e977d/classes.dex
+file.3=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b436e67e9bc71e44a2d4d202562a1c112741180/classes.dex
+file.2=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_9add3f4f11051c1559d5b94c53f03c2db7ebafa4/classes.dex
+file.1=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0ec7da49e29043b26fec36e149f01d8b9ddba772/classes.dex
+file.0=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f20a6cfb5bfc4fa3621b2c5b70d4243fc692e80/classes.dex

@@ -1,0 +1,7 @@
+#Mon Aug 28 04:16:17 IST 2017
+base.0=/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_285ad7245df969dd2ba5d858efdfef90960a9a6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac0ce1d5eae14a8a0bbcc1138c7a4e781a527962/classes.dex
+base.1=/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac0ce1d5eae14a8a0bbcc1138c7a4e781a527962
+file.0=/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_285ad7245df969dd2ba5d858efdfef90960a9a6d/classes.dex

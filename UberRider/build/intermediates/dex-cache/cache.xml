@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_33a62c4aa99d7120a57b40c7003e0adc869025c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_31f52f9a4a24527c23ab87ddfabfff65c4693ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_a90ed7b3cd94bfd6d6c9aab07874c194c9203cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_93191333f6cbbc766ed965f067ca3e1611c31ea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_ffc42d79c8c60dfe8f3659593ab6edf3b24a22cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_37801ad6c46f8d237540e0a75cfb5d353c16b4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_e5e7db2e954deb4933bf044bbeb1e63de7183037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c431998db6dceea1fd88f54d3a26b3a150c6ff2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_618ba20651e414627a2b1a6cbfa349bcc824f553\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7fe2cb3604e042a510316f9aafc623386d3718ce">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_893582c6bdcc64cffcb5173736dba46e1ef477bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_0770a2e4270808492b3f558278881ee1e6afac05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_7e3eda0a1ebce94a8885311bda022f2985d94376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_0bfae4a53ae4c917e689b665983662a8f18e7677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_d7c4d3bb88db7a5476e63623262c4ee5707f8e12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_4cd2906cbb7aee7298c47b718bfb9f260bd717c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_ffc25d9562e1ed112b6f814f31b5ddd9032b40ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_8ae53328d547a88f60bebf63bbe69bcc9dedc738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_378eae6249d0b8840f5164f333b780fc55b0f074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f79c359ff637e3afc78d761b7d5404ef8d2d76d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_e2771533c2dd44a0254e588500f989cc5e3dbc47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_959748b6803fcd1517531a70fd5fefb896b83794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_8b37df0d82e732d2ccbffc0d463443782b9ad7ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_44f6f393110f5124866f224ad49e2f256a65ccd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_f846f1d03d18c5fa59d5483ffd05a0a08c175469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_3921e17d5af35d87be56338bfd5f795b50095075\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_3967e4ed8e2b703d7f61e7444e6996c49e4275d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_8a33e141e3b41abde636689a04cb61f13aaaad8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_920d49d5f71e7cd8a263bf65cca5a6b168a429c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_7282d806298bc502ff752fb6c2c4df344d7c2033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_8367a80422306c791afac2622058742d4f8df3ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_958250557e49a4ee619d9128ec554ae9813e78cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_36b7dce42df4f86da4a6454b2c3eeca8f6404826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="723cffc18c52892cf37184ea6f19f99ae0851004">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bcb7fa183d0af2eae0887a07ce1b2658e5a32e3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_c39d910112caea5d2ebe93f59e9de517857d2629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_5b6bd2c599e459f7c0c2f35c8a58654d8a0e73f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_54e964490cc1945031c8a5e934c4e380b529639e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_f7564750a5ac282afd3cf30b5247afd7bc4895da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_425113c3d0ff8e2cf8c400c14c8410ef1bdae80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_1901ace60f441288d82001893fea5b5caef49edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_c7d9cbb9edbfb3110b879e37f7d1950f40dcb263\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_b346f58fabe10d57a6badea2bacbc1c471b48e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_2f6821443546623703bc77d1b15fe61cf4a8e668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_a66d90046f8ddeedfa6f743cbf8a105dfb47ac40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_eecff76db122f4b970aec739066965e4925b8954\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_776077298a13e889b84daf3fb48a1f304eb843b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_3920c8da3919f0dc1e1be6e3c71c17d06168ce33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_9601ab97cd370b2794d62cc655107116a6fa40e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_01097a0d718a85af3e644e21c26995db5c143af3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_260dc745e155c992b4894f047ac6d5ea65061ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_e29229fa8d3aeb7a837faa0bb416b0bfe00b82c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_1b9b453397224075850c30dbb6f9356914155284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_6b0514258f3ba2dda78905f1125998377aa135e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e40b18ec30d0e7730175c059a35ef27cb4c5dc87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_757bf14c1233cc1fd3d1287a806d5ac2179acae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_508c89ce04ef12b87980b82c337db6fb350356fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_cab0812f69079c3d83f145ad70844877671c4412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_6136817dfe18daef1be50574f793645ab90b8d39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_a92819cceb3fde46bbc345eb9c69479c5ad6d79b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_564337f598ea71c887e79d4c1062f4634a4bf37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_ff516fb86e008bab8154e848f0507b2280fb8b09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_52f651ad9e769758bc3042b67ed0a5d7f3cdef64\classes.dex" />
+    </item>
+
+</items>

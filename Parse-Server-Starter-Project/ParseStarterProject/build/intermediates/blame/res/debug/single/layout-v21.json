@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kirti/.android/build-cache/d6a1b770d3f3844253a6e3fa9854a90a3d98bbd2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kirti/.android/build-cache/d6a1b770d3f3844253a6e3fa9854a90a3d98bbd2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kirti/.android/build-cache/d6a1b770d3f3844253a6e3fa9854a90a3d98bbd2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/kirti/.android/build-cache/c7fbc503f83fcd5cbf9f5a3bf7e423391638b8b9/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kirti/.android/build-cache/d6a1b770d3f3844253a6e3fa9854a90a3d98bbd2/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

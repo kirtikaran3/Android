@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/res/values-v19/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 76,
+                        "endOffset": 302
+                    }
+                }
+            }
+        ]
+    }
+]

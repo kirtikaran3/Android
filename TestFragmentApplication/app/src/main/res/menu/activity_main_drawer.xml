@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Hall"
+            android:icon="@drawable/hall"
+            android:title="Banquet Hall" />
+        <item
+            android:id="@+id/Catering"
+            android:icon="@drawable/catering"
+            android:title="Catering" />
+        <item
+            android:id="@+id/Decoration"
+            android:icon="@drawable/decoration"
+            android:title="Decoration" />
+        <item
+            android:id="@+id/LightSound"
+            android:icon="@drawable/musicsys"
+            android:title="Light And Sound" />
+        <item
+            android:id="@+id/Premium"
+            android:icon="@drawable/premium"
+            android:title="Premium User" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/Share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/Contactus"
+                android:icon="@drawable/support"
+                android:title="Contact US" />
+        </menu>
+    </item>
+
+</menu>

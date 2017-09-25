@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_181e03854f691ea5d6217285ae76dcfe26e9f508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e2d29549ceb49f07a9e71a47892ab217222bf30d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_93191333f6cbbc766ed965f067ca3e1611c31ea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e40b18ec30d0e7730175c059a35ef27cb4c5dc87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0408c8760cd4b4aafda8c7d409b1757c13ccd4ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c26db053f1521925189f72a6f6d5e96d74aa992">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6c99a3a20c16fc56d3c618caa47bb5b2e0ffa688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_19e652d2dd415d1377f88d547302335777455e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_959748b6803fcd1517531a70fd5fefb896b83794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_019f7629b9902a0a8426bee7748a574cf4ffe376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4bdb9ee332888f1c4cae52b9d9367ff2293f3f26">
+        <dex dex="C:\Users\Kirti\Documents\AndroidStudioProjects\Uber\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2e56d021c672e8926b43b5ddc40ffe3dfd60193\classes.dex" />
+    </item>
+
+</items>

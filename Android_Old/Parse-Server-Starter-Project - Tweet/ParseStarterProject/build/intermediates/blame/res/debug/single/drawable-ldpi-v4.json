@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Android\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Android\\Parse-Server-Starter-Project - Tweet\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Android\\Parse-Server-Starter-Project - Tweet\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]

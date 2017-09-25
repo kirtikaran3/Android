@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/menu/main_page.xml",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/menu/main_page.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/menu/activity_main_page_drawer.xml",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/menu/activity_main_page_drawer.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/menu/share_menu.xml",
+        "source": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/src/main/res/menu/share_menu.xml"
+    }
+]

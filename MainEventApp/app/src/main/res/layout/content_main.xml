@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_above="@+id/mainactivity"
+    android:id="@+id/constraintactivity"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.kirti.fragmentapp.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    >
+<!--
+    <android.support.v4.widget.Space
+        android:id="@+id/marginSpacer"
+        android:layout_width="380dp"
+        android:layout_height="480dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/mainactivity"
+        app:layout_constraintLeft_toLeftOf="@+id/mainactivity"
+        app:layout_constraintRight_toRightOf="@+id/mainactivity" />
+-->
+    <RelativeLayout
+        android:id="@+id/mainactivity"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+
+        android:foregroundGravity="top|bottom|left|fill"
+        app:layout_constraintBottom_toBottomOf="@+id/listViewID"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1">
+
+    </RelativeLayout>
+
+    <SearchView
+        android:id="@+id/searchView"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="9dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/common_google_signin_btn_icon_dark_focused"
+        app:layout_constraintBottom_toTopOf="@+id/listViewID"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1" />
+
+    <ListView
+        android:id="@+id/listViewID"
+        android:layout_width="0dp"
+        android:layout_height="440dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+</android.support.constraint.ConstraintLayout>

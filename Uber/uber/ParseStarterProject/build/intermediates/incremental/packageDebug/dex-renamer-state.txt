@@ -1,0 +1,7 @@
+#Mon Aug 28 02:56:32 IST 2017
+base.0=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a514c02c86fbdda06415dc64e03ce862dee1139d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bac2114bd4db8f56c9d935d6f875f233b3a984fd/classes.dex
+base.1=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bac2114bd4db8f56c9d935d6f875f233b3a984fd
+file.0=/media/kirti/Tools/Android_Linux/uber/uber/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a514c02c86fbdda06415dc64e03ce862dee1139d/classes.dex

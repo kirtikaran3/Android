@@ -1,0 +1,7 @@
+#Fri Feb 03 05:09:05 IST 2017
+base.0=C\:\\Users\\Kirti\\Documents\\Android\\UberDriver\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f3eb96c7448c90abbba805537967025109907936
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Kirti\\Documents\\Android\\UberDriver\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33441746dc53d945696e2beabece1ee4ac872834\\classes.dex
+base.1=C\:\\Users\\Kirti\\Documents\\Android\\UberDriver\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33441746dc53d945696e2beabece1ee4ac872834
+file.0=C\:\\Users\\Kirti\\Documents\\Android\\UberDriver\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f3eb96c7448c90abbba805537967025109907936\\classes.dex

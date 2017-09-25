@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4291502925815"
+    token="5817327690609998590"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="713" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="582" />
+    <task
+        name="verifier"
+        duration="411" />
+
+    <artifact
+        location="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="4291502925815"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Kirti\Documents\AndroidStudioProjects\UberRider\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

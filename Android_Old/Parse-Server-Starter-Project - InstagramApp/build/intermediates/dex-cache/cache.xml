@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_07f3bb63276a9c4bba04ed2683f8a7ac730ced3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_b85c8f8c473c8724fcd54fa6cbe56c655275ba50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_3da766d14d998a7226d865009c7bb78dd7bdb349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_7c45f76a559b42f03722d234ea74311990effbff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_d58943e3ce20cb9e7477d054892c32008b8ed913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_1f2829195765e03dd72767460de5c919e1509094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_9b957173eb8742f9d899223bea50d453d77b7d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_68275ab9240c52f94c8e001b55e228da171d326f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_fa554c4846c4175a45cd49433925e53338a08468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_81836472a79666386a1872f05b5c0ea8ea9cbf12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_70d26196ed4852aa1b7ad75d251e226a34913848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_302e083a689b3f073ab76ee12a9092893718fc57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_ce84f199441f39cfdc67605383e140b0f47c7a5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_34d66bf506bebdc048c1d390de5a8aa3b17f8619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_44bc7b5448eb4c2a2a773738f59149d287a72c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="17762ac3c0b859818da4f84b955399c367fad4af">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7000937f1a622fde4a582485960d2ad723d08ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_2d258e982a6b5ba85f9fbfbe59d356d8adcfc97b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_860004609b35bd0ea5fc5d246aafd6acb827ec5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_b693d2fc96cc25a3002a3287871bc50d967f3835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_365f002fff6c3151eedb4cc2f0a1f1cc3bbe0855\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_a7fb109592ad98415d5d9d96516e81a8a7d1effc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_fe3be1786b7caca0298cc23aa1663ead34198f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="013f6c737d9d0e6edebada0c7b54e2e313205f24">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6c2852f67109d13f0024a7d4b468f7053259b48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_2636dd91a444ba83d4c6a2f3c20cf8e5c8d3589a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_84d6d5b6d50cc768cef8fbc54a37065f0a893b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_3144a3a3e9f644a3942c4010c826c0273e39ab05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_51c325c40b39d25423db2ad2a8091ea1638f9772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_32e6a4cfdc5f14ec5c4d5b4830f0c16bf8e5977a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_620ec957f3bc75774ec3707bd143749b18bd00b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_7f2b331bd5f66247ec773f4e44443556d1f5f3d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_10e399f1825d3fb87056a3f8d245154af117702e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_f8cbe7393bd8a1c6458997e0a0dc0e16995d532b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_3e75197b86845b00bbcc499604f285b5f086522a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_905664e9fcc3f57035d7d95df6ba0e47c79b6422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_ea14f92caf243b4c02396107c3b6f5e3c301a697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti Karan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_0a8bf688923fa9ec96747730cfdd00804588b3e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_bb4ddfb1b6cee0ab205797f4bbfa9974353317d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_d7749e5aad27d43e4db86bceacad25170308565d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_de2d770320a0e6747e2620d7d1b824e1b12cb8f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_160bce0b206a0ca50fca689aa55ebe6147f223dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_1880eb6d73da19cd7f0e0931b7682deee3ac556f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_76c455d646fe2c1ab37e01fea277210b08db4f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_626a3f5a388c630c077e3e8ae8bf34b49b1f48b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_dcae26c13e3a7d7532eae0424892e786d357f6bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_0e560bcaa96706d4ce42f6af48c05962a8f55990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_d1eb682d8fe7d30112300ff89bfbacd2eef7e1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_e7fe029a45db9a2a78018b3d1b3c435045cbae24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_00cdc188ad5d5c57e88c9e12bc99302d032835c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_a3096c6e2b9906e03cbd547ce871c85464bc33b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_09927e540770e6251a4c871ea60e0b9e393506e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_8f6363bece4f661216e1ea8f533a154f4d9f49af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_78d5b146c629cff8ac1348068a05bbfe432e9dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_5c28d6a8139a212700cdea7c351f0f3b6fc357b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_21f87f3aeffb15a922ffe8f7a9b2fe123a42ab2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_ace344b45bf2011e7883940830f007cd5fbc2958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_38c499604e347259676b5c4c101914e4300529b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_d566c5cd5cb25501eb8d698695ba572ca70afb73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_9221f5502524e14294b7215eda5ac957e54b5b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_a319ccfca049128829de9f53789f9102363f77b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_4c38966ebf2391883caf8cef0b59a48692241ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_ea096db1582ad54b9e3d70bb58f51ea1228abcca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_8e54299d03d2f737e27997fa3e9dd635951fd143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_875ea8e59d35c190b5aec940a3afca23eedb9fa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_204a0d2a28e57778f14fd781fad80c40fe65e22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_8c98840c3064c282be457a3304cbf99174299b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_5545de76daa310baa27f0d0f18e2e4b918f93ccd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_fc4a5274450f873574b1c9c8f7b63070b37e80df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_c32c65106cb511db994e0bbaae502c4128878072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_a44d219a0d562e30f536dbcc8ee8108b01703f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_72c1c6116d4d11c167c079820b6d4d95fc343600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_df73a39dabb5c820966a4986a60c888093805410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_c5733e196d2333990c7ce25618539af8077451f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_2a0d213a0a05850826c7dfc527fd7ec9fdc2bb83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_a72e1583aad74852745bf20272acad6ee0ce33b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_41113bcfa59e5367687566b1d083792021af54be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_bb4ab56b5f9ea45940eaa2642167a745e3c8e53c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_dcb83125fb4ec7eedb9536301da9451e91f7cf1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_a8a223c682d949b5b89461b91f66e866eedd10ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="485f7a1864b2af465a5da6dfae51b15045011223">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_26560ff4afa0cc56c2f1bb04d1e38d304d0e8e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_0d9a316df6cff135a23743b7ef446cdb6de25e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_421358ce7dbf57649da6ca2406367fa46d1b2765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_fd11f7b44fe5fdbbb97d17762f10b5cc3c9ed812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_5ebb5d06a0cc7e21055ca49aea04636cd2996740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_ebdeb4a50393f043b8befa3900caead602a94e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_a0cbce114985493fc7e5c7b15cd2a0b3a6eaf159\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_8b2ca4d1786150020b28256a2bb3d6cb1ade550f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_dd6071083db896ad6acd90254cf221e193a8cecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_5b10c7537881ff97ce7b11197e8833d516d45e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_dcea1dea68f905fd239c6aa95f19151bda77c054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_69df6f126a2b2ad48ae42eeba6813b9e2ff9a270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_cf614e2125726af0222610ba7da368b30eaac427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_bd5b2906149df357b8b670d5dcf938e18dc2eaca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kirti Karan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_813598250920faa0b4ca05f35603fe49d2c5403e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_12ca5f53db689e7d15b9a0a9be1390bbb7ceed4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_af2ed993677b5226f6b3838e11865c80a03011d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_b08f9bdd32f08491550abeca7844cbe1bd873344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_1fea5ebd6d20984e9992a72dad097a11d2ee28d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9336190c46cbccc456a3389b128bdf607f4cb318\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_11d133675c5aa5e6bb89b347c208caa20a76819e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1c835b1a14feb4b174801b25153d9d00a6082803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5645c9f2005829631341ca2c28edaba41c94c3f8">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e215dae17fa1247acb30d1c0e90548a254c82173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_3edb5e86ea1ec7abc87c0976487bce33e5308f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_0c06f648e840df0469e6a27ac41a4a7a157bf551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_c1eff20f0b077fa039a06a8aad0e1712f27c6ecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7b961282d0764cc011a8e4855281c8fe283ed6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_cc17fff52d3316286b82487f707a223ed8581d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_9fc076c7c9d366a4475a0c1fac26ad78c3f805a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_9bcaea884a9dc69ee77f13bcd879a7567dfbeba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_fb99fec94232ce8fbf240916a5162bd8980b1994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_4fdf532619b7d0883fc1d27a26019ecb12aab395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_b7ebe680736c285a5af88affb8b66d879c58c7d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_885f5c3849bb14619eaba2b5a247a967fc1bbd86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_e561557da716d60128d937445abbb522089b80b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_9a9bbd59d451b6e9175a1d501974b076295e31ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_2c5d7621ef0586c62f9f8d45bc5be5a770ff6b21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_e1bf327dec9f224828445e8533987efd7d179975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Android\Parse-Server-Starter-Project - InstagramApp\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_0bb548aaa77332e0aed92484fa42a78d58d38939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Android\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_066f6e161edece20545eed2156df7914634a17ff\classes.dex" />
+    </item>
+
+</items>

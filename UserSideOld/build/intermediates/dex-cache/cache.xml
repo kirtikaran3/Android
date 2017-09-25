@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb82f7d111f7829695f4e1941010c1b52de2802e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/ee46332f4685e77e284896577764be9f4ec06d60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecd3ceeffd4635a23936ab9e646f9a30cd9748be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/603a874355158c86733cc280aaac1249cdd96296/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27802ece0eb40ea239d2362cddd15de1d916ac84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c01010ed78b7d53a357faab759fe025e22cb71c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/6b9055a8b2b638622558a1577ba3a5ec45502865/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60f243db1649de03355b291e871d768724a8413c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_add8358f43d5449b2465c93499fb024db34cf70b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/1824a7897efca7f0375a5ee5af2a626baad73d74/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ccf69e0d2fcececc6e9217a002c934e8ec919d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69d0b52c0139dc96af32f83bee2f0b2b42cb487b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/2e90db7c3b71888adb71138bd76bd56d18e36d33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4424cf53bfadd86ca8d92d2ecd16391ea433f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/c7fbc503f83fcd5cbf9f5a3bf7e423391638b8b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_921a0ef765d2bd2b20a49bfb162b519753853dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_019049b996bd0f9200520d60f0dcbc80eb1f9bf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7758df9d9f105c7061f9350908154280ca0c37f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/f93072555d4027b192d73be4cbda757ff4fc2106/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d183cc806bd9b3d4644fd65c7319b0ab6528d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_0cdc2e3a90e17aafd5dc6759cba4281d69c60a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/fc7eb7dcda7d267ff962e61bcb1d740311161269/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb46a27b4e014e6757c59aa6dfb8e2a7547d942c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/847cdc0a98d98c81cdb767922adba6e602aa6277/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01b0e789fdbe5978bc2c15c312d24b6c062fcf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a700c100195196daa9566c8e4f1a07211f04cebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/092109efe3c528c4def7ebec69886a7b37f27b6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baf07eaa22d00ac1287a1fa421271ccddb8c8b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/20d6f9395ecca51a7ecaaff6ff6f3b59910836c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbc0b15051bf2d3e6e619e1060250feed6f695c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_072c2810c35f857d79fa50f9f89debb6cc3fb642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/0b66c01e3553ffc38609fb89d778c6fe2844575a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f0b65e0527ba29534b04158846ba7d8c45c69a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/f9d47efd2a8eaa0afb66af81eecbf4320bc2d96d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5e8d9adee583a9d3c285796b1c9bb4ccae52277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c5cb281c98af1bde472e9a16d99348c0dd3e8de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e49c3b28536429dc8c5c123d68ee3c30d915acc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/0a090c6a89bb1efda633d42b1b874c222d5cb9a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_521fc99e2a2b9651d42f91d41fdd5cd613813c05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/7fde492c333a0d1b13db2b13f24866758358dd99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6de1b745908b49ad05864f23c90f2482b530dbbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/4e0f91a4561a9e91d6d49e1a165e9e465f416553/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06bddbcfe2a3b0a8a6eea79257cf5b10c5815659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/a4e914afddefde0445a4fbd0ec907c8c65412f4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a091fa4ca09ae241a19fb1f92db9097eb5fe4967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0ec7da49e29043b26fec36e149f01d8b9ddba772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f260eef3491b8bb737e4190b33c7da63c12b2b8">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_285ad7245df969dd2ba5d858efdfef90960a9a6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/b4068219c1f863a9c36cfb137d347624a89e7c06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b3dd1580939a34822554a5d4db864c7058f566d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_9606bd4ccf10ca83bf0bf450208a60b8bca724aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a42c16a38f7ccd52a8a45ed60e7508cfbda8ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/0ef22ae185447c279369c988f926b28a0436d84d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4fd4eb07ee8c5cd371715ed3882cdf0b38c6097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51a5c73f1bdc0ef88fb077e09bfca6dc6b6f08ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57c59b40fc941d26503fc56e799e704ebc07e3cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/a6ef9006ee75baf92e87e98ddf3a4e765981b672/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7abd2c70a538dd1c5c6c4f8b3acffc6f8eccc333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/SDK/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_58e8d8eae25c5d52dec99e5b3ced4d39655e977d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/efe7c1a9523dec2dd62343365c2440f0f1401fb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_893c5a753b3751bad7ea98e74629bf69c4cddd70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14a2038133ab43db279481fd0d960f892a703217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/517f11727352365242505dfcc5e056c9af123222/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d21ac85c7fe1ef7113e1ea7c4ad2723c2abfa0f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/964c7649aadcd51a180b639783d48af47ecca419/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8ff809a44f190d2ae88a42056589d76532194a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/c98c20924cb04092be39ff3974afec43b08d0a12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ebea34df3d8020fb3693f5a1d032181d82d62fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac0ce1d5eae14a8a0bbcc1138c7a4e781a527962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/c02bf90a364fa4f9280fc774bbe32e63e9540ee9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f37b0d43456ef34611d0ded7b307f4aeb40b0b6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/c0c699b819d0b11050b8fb669ae3363ff7bb82d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac8c007bae01f38059eaf202f74fe0ea5cefe4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/3c61feb275e2f03236428ffefd65c06b4f7e3ec2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_194de9ade2d50cbfcef7195bc2b4ba4863378f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/9e789c81e08cdbbb4ba7b1fbacada15b91ae9117/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01292c884f2f97012164bae984f4fa700ad6e332/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/e3061e9a004d6df0025bb4ceb6bef621e51a2313/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c832715861ab9c627798a29c5ca685f534484885/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/893f022320c352416c0b8d19e2451eb614456f2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0326fa57e7600de400fb2c23b94ba09676cddcd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/36d8949b83ada496dac5f94aa6b96926cc8c52a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f83cbd79d8b08432e0b66f135173cc6a56db6fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/9aae67237aa89e54a29c6549a7b8111f33414793/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e27f49ef76232f29e2a420f8cda8794782eb0aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/5cc989460f4228dbb7aed05a87da3050b0400e04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3827e7b82ee68a153e8d2a05158e67f447cc5cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_9add3f4f11051c1559d5b94c53f03c2db7ebafa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/9ada3576ac32e83e81625176329c6d329313e0b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61de6698c07bcac323913513591b3c647b442ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b436e67e9bc71e44a2d4d202562a1c112741180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f20a6cfb5bfc4fa3621b2c5b70d4243fc692e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdc11e69ae46b3294d411545a878632a3c26f266">
+        <dex dex="/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1513c69bb624a1141727197cab68f6ff451d81c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/d5c832e5ec0add23621ddd7ec1ecd3e3ee09d3dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34fdd13cd8627a5def05b366dc6e4b67feca9599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_305a01a1bc8453b44421649e9ba2b1d9e6942e05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/6e998dcc9e100f12331959d2a021cec123401e80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_474c5bd4a047dda23b64bc18b76ebc8c14a5ae50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_024534891f21464918c9eb7bb609710146727bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e880fc716c2488963bd1ce594b138749cfda50ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18f3d48387230cc861ec26b709163d07a4fe8b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/166a60f5889c903ee980e9e7dd58e185d79bda5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e531ebc091963322e2663403fd7ec8b9ba033730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69eb2218d26f3abdfc71d13c3d2ac7dcee9c9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63d217f3f01fb0b3cc1e2d1e710f5eb020d41025/classes.dex" />
+    </item>
+
+</items>

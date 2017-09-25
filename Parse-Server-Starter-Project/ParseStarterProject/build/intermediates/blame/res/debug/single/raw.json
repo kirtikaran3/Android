@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/res/raw/gtm_analytics"
+    }
+]

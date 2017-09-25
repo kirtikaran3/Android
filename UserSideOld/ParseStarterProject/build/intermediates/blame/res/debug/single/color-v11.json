@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

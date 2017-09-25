@@ -1,0 +1,21 @@
+public void LogIN(View view) {
+
+        EditText name = (EditText) (findViewById(R.id.editName));
+        EditText password = (EditText) (findViewById(R.id.editPassword));
+
+        String inName = name.getText().toString();
+        String message = password.getText().toString();
+        Log.i("Name :", name.getText().toString());
+        Log.i("Password :", password.getText().toString());
+
+        if ((inName.equals("Kirti")) && (message.equals("1234"))) {
+            view.setVisibility(View.GONE);
+            ImageView home = (ImageView) (findViewById(R.id.into));
+            home.animate().alpha(1f).setDuration(2000);
+            Toast.makeText(getApplicationContext(), "Successfully LogIn", Toast.LENGTH_LONG).show();
+
+        }
+        else{
+            Toast.makeText(getApplicationContext(), "Incorrect Combination", Toast.LENGTH_LONG).show();
+        }
+    }

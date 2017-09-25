@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.kirtidkoplabs.helloworld.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Kirti!"
+        android:layout_margin="10dp"
+        android:background="#fddb01"
+        android:padding="10dp"
+        android:textColor="#050505"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:id="@+id/textView2" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="I am Your APP"
+        android:id="@+id/textView"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="46dp"
+        android:background="#f90707"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="#051afd"
+        android:textIsSelectable="true"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="This is test"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="51dp"
+        android:textAlignment="center"
+        android:textColor="#42f905"
+        android:textStyle="bold"
+        android:padding="10dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Push Me"
+        android:id="@+id/button"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:background="#04f9d8"
+        android:padding="10dp"
+        android:textColor="#fcf403"
+        android:textStyle="bold"
+        android:onClick="onClick" />
+</RelativeLayout>

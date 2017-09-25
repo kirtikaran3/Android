@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:9:1-35:12
+	package
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/kirti/.android/build-cache/7fde492c333a0d1b13db2b13f24866758358dd99/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/kirti/.android/build-cache/c98c20924cb04092be39ff3974afec43b08d0a12/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:17:5-33:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/kirti/.android/build-cache/3bcbc3d868cca1479f9f66047a8dc0cf33d17dda/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/kirti/.android/build-cache/20d6f9395ecca51a7ecaaff6ff6f3b59910836c0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f9d47efd2a8eaa0afb66af81eecbf4320bc2d96d/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f93072555d4027b192d73be4cbda757ff4fc2106/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/kirti/.android/build-cache/847cdc0a98d98c81cdb767922adba6e602aa6277/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/kirti/.android/build-cache/964c7649aadcd51a180b639783d48af47ecca419/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/kirti/.android/build-cache/a6ef9006ee75baf92e87e98ddf3a4e765981b672/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/kirti/.android/build-cache/a4e914afddefde0445a4fbd0ec907c8c65412f4c/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/kirti/.android/build-cache/b4068219c1f863a9c36cfb137d347624a89e7c06/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/kirti/.android/build-cache/092109efe3c528c4def7ebec69886a7b37f27b6d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/kirti/.android/build-cache/517f11727352365242505dfcc5e056c9af123222/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/kirti/.android/build-cache/9e789c81e08cdbbb4ba7b1fbacada15b91ae9117/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/kirti/.android/build-cache/0a090c6a89bb1efda633d42b1b874c222d5cb9a7/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/kirti/.android/build-cache/6b9055a8b2b638622558a1577ba3a5ec45502865/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/kirti/.android/build-cache/7fde492c333a0d1b13db2b13f24866758358dd99/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/kirti/.android/build-cache/9ada3576ac32e83e81625176329c6d329313e0b5/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/kirti/.android/build-cache/c98c20924cb04092be39ff3974afec43b08d0a12/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/kirti/.android/build-cache/fc7eb7dcda7d267ff962e61bcb1d740311161269/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/kirti/.android/build-cache/c7fbc503f83fcd5cbf9f5a3bf7e423391638b8b9/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/kirti/.android/build-cache/c0c699b819d0b11050b8fb669ae3363ff7bb82d3/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/kirti/.android/build-cache/e3061e9a004d6df0025bb4ceb6bef621e51a2313/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/kirti/.android/build-cache/893f022320c352416c0b8d19e2451eb614456f2f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/kirti/.android/build-cache/6e998dcc9e100f12331959d2a021cec123401e80/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/kirti/.android/build-cache/5cc989460f4228dbb7aed05a87da3050b0400e04/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/kirti/.android/build-cache/36d8949b83ada496dac5f94aa6b96926cc8c52a6/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kirti/.android/build-cache/3c61feb275e2f03236428ffefd65c06b4f7e3ec2/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.userListActivity
+ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+uses-sdk
+INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /home/kirti/.android/build-cache/3bcbc3d868cca1479f9f66047a8dc0cf33d17dda/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /home/kirti/.android/build-cache/9aae67237aa89e54a29c6549a7b8111f33414793/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /home/kirti/.android/build-cache/c02bf90a364fa4f9280fc774bbe32e63e9540ee9/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/kirti/.android/build-cache/20d6f9395ecca51a7ecaaff6ff6f3b59910836c0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /home/kirti/.android/build-cache/79a01b88ba84a66218bd4eb48819c3cdfb9d4843/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f9d47efd2a8eaa0afb66af81eecbf4320bc2d96d/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/kirti/.android/build-cache/f93072555d4027b192d73be4cbda757ff4fc2106/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /home/kirti/.android/build-cache/847cdc0a98d98c81cdb767922adba6e602aa6277/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /home/kirti/.android/build-cache/964c7649aadcd51a180b639783d48af47ecca419/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /home/kirti/.android/build-cache/a6ef9006ee75baf92e87e98ddf3a4e765981b672/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /home/kirti/.android/build-cache/a4e914afddefde0445a4fbd0ec907c8c65412f4c/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /home/kirti/.android/build-cache/b4068219c1f863a9c36cfb137d347624a89e7c06/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /home/kirti/.android/build-cache/1824a7897efca7f0375a5ee5af2a626baad73d74/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /home/kirti/.android/build-cache/ee46332f4685e77e284896577764be9f4ec06d60/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /home/kirti/.android/build-cache/4e0f91a4561a9e91d6d49e1a165e9e465f416553/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /home/kirti/.android/build-cache/166a60f5889c903ee980e9e7dd58e185d79bda5d/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /home/kirti/.android/build-cache/0ef22ae185447c279369c988f926b28a0436d84d/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /home/kirti/.android/build-cache/092109efe3c528c4def7ebec69886a7b37f27b6d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /home/kirti/.android/build-cache/517f11727352365242505dfcc5e056c9af123222/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /home/kirti/.android/build-cache/9e789c81e08cdbbb4ba7b1fbacada15b91ae9117/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/kirti/.android/build-cache/0a090c6a89bb1efda633d42b1b874c222d5cb9a7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /home/kirti/.android/build-cache/6b9055a8b2b638622558a1577ba3a5ec45502865/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/kirti/.android/build-cache/7fde492c333a0d1b13db2b13f24866758358dd99/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /home/kirti/.android/build-cache/9ada3576ac32e83e81625176329c6d329313e0b5/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/kirti/.android/build-cache/c98c20924cb04092be39ff3974afec43b08d0a12/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /home/kirti/.android/build-cache/fc7eb7dcda7d267ff962e61bcb1d740311161269/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /home/kirti/.android/build-cache/c7fbc503f83fcd5cbf9f5a3bf7e423391638b8b9/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /home/kirti/.android/build-cache/c0c699b819d0b11050b8fb669ae3363ff7bb82d3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /home/kirti/.android/build-cache/e3061e9a004d6df0025bb4ceb6bef621e51a2313/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /home/kirti/.android/build-cache/2e90db7c3b71888adb71138bd76bd56d18e36d33/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /home/kirti/.android/build-cache/893f022320c352416c0b8d19e2451eb614456f2f/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /home/kirti/.android/build-cache/d5c832e5ec0add23621ddd7ec1ecd3e3ee09d3dc/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /home/kirti/.android/build-cache/6e998dcc9e100f12331959d2a021cec123401e80/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /home/kirti/.android/build-cache/5cc989460f4228dbb7aed05a87da3050b0400e04/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/kirti/.android/build-cache/36d8949b83ada496dac5f94aa6b96926cc8c52a6/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /home/kirti/.android/build-cache/388c0529fc436a13fb6a41f9201f2839cb60f17b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.0] /home/kirti/.android/build-cache/603a874355158c86733cc280aaac1249cdd96296/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kirti/.android/build-cache/3c61feb275e2f03236428ffefd65c06b4f7e3ec2/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/kirti/.android/build-cache/409fa955cb483874a66156fc921cd23cc7372a5b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /media/kirti/Tools/Android_Linux/tweetParseQuery/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/kirti/.android/build-cache/ed97a52a5386c4a261c63690040e301aa6822753/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/kirti/.android/build-cache/8743b40758fc84e2c1083ed8502d0c1b27f01b02/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /home/kirti/.android/build-cache/7858cfa40238e2e23a6dcdf1e50b237e39473623/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /home/kirti/.android/build-cache/d8fdaa41d83dbb1df3367b98e19b54afea156acd/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /home/kirti/.android/build-cache/40e496ce0f0e9d35ffc1f568670edb558b18217f/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/kirti/.android/build-cache/17fd99251f9687d9f2c35a4eaf3a65c507bbb901/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /home/kirti/.android/build-cache/9d2ecba7cb333772b07dfa00746bfface5d98170/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /home/kirti/.android/build-cache/3278d3acdce3f4f2d06c2a55bf377108fec20364/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /home/kirti/.android/build-cache/7fde492c333a0d1b13db2b13f24866758358dd99/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /home/kirti/.android/build-cache/13b7da5ed4c32c0d41cc04c75b2716ea6c59780f/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/kirti/.android/build-cache/26402af4ec1fba0d52b28bd48411869618266f3e/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/kirti/.android/build-cache/0c6bb940c1a5709c5b5f1fc4172a80d13cbd4a51/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/kirti/.android/build-cache/392a7f778ef5408e24f047f58e84ee1e9cf27279/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/kirti/.android/build-cache/305ec648b56b5d2429e37eb29023f99106ce8547/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/kirti/.android/build-cache/6ffa869f978780300a0186407298dededd19920e/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /home/kirti/.android/build-cache/ed144cba767c1eabdde2070cdf9bc8bafd1e9970/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/kirti/.android/build-cache/14ef000bec0fef372534ca2b9ff5216997526f5b/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/kirti/.android/build-cache/b843f12307fd303bc23e72fa1d356f2a0870e40d/output/AndroidManifest.xml:22:13-58

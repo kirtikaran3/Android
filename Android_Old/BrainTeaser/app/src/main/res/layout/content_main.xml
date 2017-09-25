@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.kirtidkoplabs.brainteaser.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <Button
+        android:text="Start Button "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/startButton"
+        android:textSize="50sp"
+        android:textStyle="normal|bold"
+        android:onClick="startIT"
+        android:background="@color/colorPrimary"
+        android:visibility="invisible"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="0:30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:textSize="30sp"
+        android:id="@+id/timerTextView"
+        android:layout_alignParentTop="true"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <TextView
+        android:text="0/0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultTextView"
+        android:textSize="30sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <TextView
+        android:text="12 * 3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/questionTextView"
+        android:textSize="30sp" />
+
+    <TextView
+        android:text="Correct!!!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11"
+        android:textSize="50sp"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_marginBottom="19dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="2"
+        android:layout_marginBottom="19dp"
+        android:layout_above="@+id/textView11"
+        android:layout_toEndOf="@+id/timerTextView">
+
+        <Button
+            android:text="36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_gravity="fill"
+            android:tag="0"
+            android:id="@+id/button3"
+            android:textSize="80sp"
+            android:textStyle="normal|bold"
+            android:textColor="@android:color/holo_green_light"
+            android:background="@android:color/background_dark"
+            android:padding="20dp"
+            android:onClick="chooseAns"/>
+
+        <Button
+            android:text="46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_gravity="fill"
+            android:tag="1"
+            android:id="@+id/button1"
+            android:textSize="80sp"
+            android:textStyle="normal|bold"
+            android:textColor="@color/colorAccent"
+            android:background="@android:color/background_dark"
+            android:padding="20dp"
+            android:onClick="chooseAns"/>
+
+        <Button
+            android:text="90"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_gravity="fill"
+            android:tag="2"
+            android:id="@+id/button2"
+            android:textSize="80sp"
+            android:textStyle="normal|bold"
+            android:textColor="@android:color/holo_orange_dark"
+            android:background="@android:color/background_dark"
+            android:padding="20dp"
+            android:onClick="chooseAns"/>
+
+        <Button
+            android:text="36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="0"
+            android:layout_columnWeight="1"
+            android:layout_rowWeight="1"
+            android:layout_gravity="fill"
+            android:tag="3"
+            android:id="@+id/button0"
+            android:textSize="80sp"
+            android:textStyle="normal|bold"
+            android:textColor="@android:color/holo_blue_bright"
+            android:background="@android:color/background_dark"
+            android:padding="20dp"
+            android:onClick="chooseAns" />
+    </GridLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+#Tue Aug 29 04:49:03 IST 2017
+base.0=/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c5cb281c98af1bde472e9a16d99348c0dd3e8de
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1513c69bb624a1141727197cab68f6ff451d81c2/classes.dex
+base.1=/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1513c69bb624a1141727197cab68f6ff451d81c2
+file.0=/media/kirti/Tools/Android_Linux/UserSideShadi/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3c5cb281c98af1bde472e9a16d99348c0dd3e8de/classes.dex

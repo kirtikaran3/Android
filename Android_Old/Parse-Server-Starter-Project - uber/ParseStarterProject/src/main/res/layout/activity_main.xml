@@ -1,0 +1,92 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context=".MainActivity"
+    android:paddingEnd="0dp"
+    android:paddingStart="0dp"
+    android:padding="0dp"
+    android:layout_marginTop="0dp"
+    android:layout_margin="0dp"
+    android:layout_marginBottom="0dp"
+    android:layout_marginEnd="0dp"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    android:layout_marginStart="0dp">
+
+    <TextView
+        android:text="Rider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="23dp"
+        android:layout_marginEnd="23dp"
+        android:id="@+id/textView"
+        android:layout_alignBaseline="@+id/switchUser"
+        android:layout_alignBottom="@+id/switchUser"
+        android:layout_toLeftOf="@+id/switchUser"
+        android:layout_toStartOf="@+id/switchUser"
+        android:textStyle="normal|bold"
+        android:textColor="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color" />
+
+    <TextView
+        android:text="Driver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_toRightOf="@+id/switchUser"
+        android:layout_toEndOf="@+id/switchUser"
+        android:layout_marginLeft="23dp"
+        android:layout_marginStart="23dp"
+        android:id="@+id/textView2"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <Button
+        android:text="Get Started"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="42dp"
+        android:id="@+id/button2"
+        android:onClick="getStarted"
+        android:textColor="@android:color/holo_green_light"
+        android:textStyle="normal|bold" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchUser"
+        android:layout_marginBottom="51dp"
+        android:layout_above="@+id/button2"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        app:srcCompat="@drawable/uber"
+        android:id="@+id/uberLogo"
+        android:cropToPadding="true"
+        android:padding="0dp"
+        android:paddingBottom="0dp"
+        android:paddingEnd="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingStart="0dp"
+        android:paddingTop="0dp"
+        android:layout_height="300dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

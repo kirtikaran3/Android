@@ -1,0 +1,7 @@
+#Sat Nov 19 04:26:05 IST 2016
+base.0=C\:\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df98f0e849ce54eab56ab7fd4a67c6a81e0e6c19
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_94ac1c52b1032be92ea77315c4c349e0aad1eef4\\classes.dex
+base.1=C\:\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_94ac1c52b1032be92ea77315c4c349e0aad1eef4
+file.0=C\:\\Android\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df98f0e849ce54eab56ab7fd4a67c6a81e0e6c19\\classes.dex
